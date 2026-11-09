@@ -1,0 +1,3 @@
+window.PHARAONICA_CONFIG={anniversary:{enabled:true,years:25,showOncePerBrowser:true},contact:{email:"info@pharaonica.com",phoneDisplay:"+20 100 000 0000",phoneLink:"+201000000000"},videoUrl:"",countries:[
+/* DEMO ONLY: replace with countries confirmed by the company */
+{flag:"🇪🇬",name:"Egypt",label:"Exhibitions"},{flag:"🇦🇪",name:"UAE",label:"Exhibitions"},{flag:"🇸🇦",name:"Saudi Arabia",label:"Exhibitions"},{flag:"🇬🇧",name:"United Kingdom",label:"Exhibitions"},{flag:"🇫🇷",name:"France",label:"Exhibitions"},{flag:"🇩🇪",name:"Germany",label:"Exhibitions"},{flag:"🇮🇹",name:"Italy",label:"Exhibitions"},{flag:"🇺🇸",name:"United States",label:"Exhibitions"},{flag:"🇯🇵",name:"Japan",label:"Exhibitions"}]};
